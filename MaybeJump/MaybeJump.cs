@@ -15,7 +15,7 @@ namespace MaybeJump
         private static ModConfigurationKey<bool> EnableRight = new ModConfigurationKey<bool>("EnableRight", "Enable right jump.", () => true);
 
         public override string Author => "Banane9";
-        public override string Link => "https://github.com/Banane9/NeosMaybeJump";
+        public override string Link => "https://github.com/Ryn-Fox/ResoniteMaybeJump/";
         public override string Name => "MaybeJump";
         public override string Version => "1.1.0";
 
